@@ -7,6 +7,7 @@ In online advertising, click-through rate (CTR) is a very important metric for e
 
 # The Metric: Logarithmic Loss
 Logarithmic loss gives the mean of logarithms target class probabilities. It is also known as expected log-likelihood and is an effective measure of model performance.
-![0](https://github.com/UKVeteran/Click-Through-Rate-Prediction/assets/39216339/e2911ad5-b479-43d1-921d-377e7e6f857e)
+![271783987-e2911ad5-b479-43d1-921d-377e7e6f857e](https://github.com/UKVeteran/Click-Through-Rate-Prediction/assets/39216339/599abd0e-c65d-428a-baba-4dfeff0369cd)
+
 
 # Data Exploration & Viz.
