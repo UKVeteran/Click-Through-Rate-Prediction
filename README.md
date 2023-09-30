@@ -6,3 +6,7 @@ Link To The Kaggle Dataset: <a href="https://www.kaggle.com/competitions/avazu-c
 In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding.
 
 # The Metric: Logarithmic Loss
+Logarithmic loss gives the mean of logarithms target class probabilities. It is also known as expected log-likelihood and is an effective measure of model performance.
+![0](https://github.com/UKVeteran/Click-Through-Rate-Prediction/assets/39216339/e2911ad5-b479-43d1-921d-377e7e6f857e)
+
+# Data Exploration & Viz.
